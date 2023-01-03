@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishna
-- 👀 I’m interested in Machine learning, deep learning and data science
-- 🌱 I’m currently learning decision trees, OOPS in java and dsa
+- 👀 I’m interested in Machine learning, deep learning and data science(and konjam konjam in cybersecurity)
+- 🌱 I’m currently learning decision trees and OOPs in Java
 - 📫 Reach me: gd14405@gmail.com
 
 <!---
