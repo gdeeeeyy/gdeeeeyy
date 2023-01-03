@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krishna
 - 👀 I’m interested in Machine learning, deep learning and data science
 - 🌱 I’m currently learning decision trees
-- 📫 Reach me on instagram @gdeeee.e
+- 📫 Reach me: gd14405@gmail.com
 
 <!---
 gdeeeeyy/gdeeeeyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
