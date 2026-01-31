@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A CSE(AIML) senior year student from Chennai Institute Of Technology</h3>
 
-- 🌱 I’m currently learning **Julia, Machine learning and Generative AI**
+- 🌱 I’m currently learning **Julia and Rust**
 
-- 📫 How to reach me **Contact me at gd14405@gmail.com**
+- 📫 **Contact me at gd14405@gmail.com**
 
 <p align="left">
 </p>
